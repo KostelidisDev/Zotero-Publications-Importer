@@ -1,13 +1,6 @@
 {
 	"name": "Zotero-Publications-Importer-Development-Container",
-	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
-	"features": {
-		"ghcr.io/devcontainers-contrib/features/maven-sdkman:2": {
-			"version": "latest",
-			"jdkVersion": "8",
-			"jdkDistro": "ms"
-		}
-	},
+	"build": { "dockerfile": "Dockerfile" },
 	"customizations": {
 		"vscode": {
 			"extensions": [
