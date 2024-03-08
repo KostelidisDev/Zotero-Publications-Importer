@@ -1,0 +1,7 @@
+/.devcontainer
+/.idea
+/.vscode
+/target
+.dockerignore
+.gitignore
+Dockerfile
