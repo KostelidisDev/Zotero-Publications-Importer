@@ -67,3 +67,10 @@ This Library (Zotero Publications Importer) is licensed under the [MIT License](
 ## Acknowledgments
 
 This README.md has generated using OpenAI's ChatGPT and modified by [me](https://github.com/IordanisKostelidis)
+
+## Notice
+
+This Library is part my Thesis at Dept of Computers, Informatics and Telecommunications Engineering of the
+International Hellenic University, under the supervision of Assistant Professor Stavros Vologiannidis.
+
+All components and code are intended for educational purposes.
