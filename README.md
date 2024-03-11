@@ -62,7 +62,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This Zotero Publications Importer is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+This Library (Zotero Publications Importer) is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
