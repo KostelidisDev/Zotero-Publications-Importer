@@ -31,7 +31,7 @@ Add the following dependency to your Maven project:
 <dependency>
     <groupId>gr.ihu.ict</groupId>
     <artifactId>zotero-publications-importer</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>2.0-SNAPSHOT</version>
 </dependency>
 ```
 
