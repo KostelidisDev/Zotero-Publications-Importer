@@ -18,6 +18,11 @@ public class ZoteroPublicationsImporterTest {
         Assert.assertFalse(publicationItems.isEmpty());
         for (PublicationItem publicationItem : publicationItems) {
             System.out.println(publicationItem.getTitle());
+            System.out.println(publicationItem.getCreators());
+            System.out.println(publicationItem.getAbstractNote());
+            System.out.println(publicationItem.getDate());
+            System.out.println(publicationItem.getDoi());
+            System.out.println(publicationItem.getUrl());
         }
     }
 }
