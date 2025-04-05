@@ -1,4 +1,4 @@
-FROM maven:3-openjdk-8-slim as builder
+FROM maven:3-amazoncorretto-21 AS builder
 WORKDIR /opt/src
 COPY . .
 RUN mvn package install
